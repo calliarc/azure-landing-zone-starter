@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# azure-migration-checklist
-Azure migration readiness checklist and assessment script that flags blockers before you move
-=======
 # Azure Landing Zone Starter
 
-Secure, cost-tagged Azure landing zone templates (Terraform + Bicep) for small and mid-size businesses.
+Secure, cost-tagged Azure landing zone templates (Terraform + Bicep) for small and mid-size businesses .
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Status: in development](https://img.shields.io/badge/status-in%20development-orange)
@@ -50,4 +46,3 @@ Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 ---
 
 Built and maintained by [CalliArc](https://www.calliarc.com/). Need help with Azure cloud migration? [Talk to our team](https://www.calliarc.com/services/azure-cloud-migration/).
->>>>>>> f830404 (Add README, license and community files)
