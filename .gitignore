@@ -29,3 +29,9 @@ Thumbs.db
 .vscode/*
 !.vscode/extensions.json
 *.swp
+
+# Terraform plans and Bicep compiled ARM templates
+tfplan
+*.tfplan
+bicep/main.json
+bicep/modules/*.json
