@@ -12,6 +12,10 @@ updates:
     schedule:
       interval: monthly
     open-pull-requests-limit: 5
+    ignore:
+      # azurerm major versions change resource schemas; upgrade all modules together by hand.
+      - dependency-name: "hashicorp/azurerm"
+        update-types: ["version-update:semver-major"]
     groups:
       minor-and-patch:
         update-types: ["minor", "patch"]
