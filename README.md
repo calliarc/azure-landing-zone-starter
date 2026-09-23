@@ -2,9 +2,10 @@
 
 Secure, cost-tagged Azure landing zone templates (Terraform + Bicep) for small and mid-size businesses.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![Status: v0.1.0](https://img.shields.io/badge/status-v0.1.0-green)
 [![CI](https://github.com/calliarc/azure-landing-zone-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/calliarc/azure-landing-zone-starter/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/calliarc/azure-landing-zone-starter?include_prereleases&sort=semver)](https://github.com/calliarc/azure-landing-zone-starter/releases)
+[![Built by CalliArc](https://img.shields.io/badge/built%20by-CalliArc-0a66c2)](https://www.calliarc.com/)
 
 > **Status:** v0.1.0, the first working release. Terraform and Bicep templates are usable today; star or watch the repo to follow progress.
 
@@ -74,6 +75,10 @@ Have an idea? [Open an issue](https://github.com/calliarc/azure-landing-zone-sta
 ## Contributing
 
 Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md).
 
 ## License
 
